@@ -181,7 +181,7 @@ header {
     padding: 35px 16px 13px 16px;
     width: 100%;
     appearance: none;
-    background-image: url(/images/chevron_down.svg);
+    background-image: url(images/chevron_down.svg);
     background-size: 24px 24px;
     background-repeat: no-repeat;
     background-position: 96% center;
@@ -259,7 +259,7 @@ header {
     height: 72px;
     width: 72px;
     background-color: #FF5722;
-    background-image: url(/images/chevron_right.svg);
+    background-image: url(images/chevron_right.svg);
     background-size: 32px 32px;
     background-repeat: no-repeat;
     background-position: center;
@@ -293,7 +293,7 @@ header {
     justify-content: center;
     padding: 25px;
     box-sizing: border-box;
-    background-image: url(/images/MaskGroup.svg);
+    background-image: url(images/MaskGroup.svg);
     background-repeat: no-repeat;
     background-size: 90px 90px;
     background-position: 94% 16px;
@@ -304,7 +304,7 @@ header {
 .spaces-hover__link {
     display: block;
     background-color: #FF5722;
-    background-image: url(/images/chevron_right.svg);
+    background-image: url(images/chevron_right.svg);
     background-size: 32px 32px;
     background-repeat: no-repeat;
     background-position: 91% center;
@@ -419,28 +419,28 @@ header {
 }
 
 ._rooms .about-item__h3::before {
-    background-image: url(/images/meeting-room\ 1.svg);
+    background-image: url(images/meeting-room.svg);
 }
 
 ._events .about-item__h3::before {
-    background-image: url(/images/circus\ 1.svg);
+    background-image: url(images/circus.svg);
 }
 
 ._countries .about-item__h3::before {
-    background-image: url(/images/Vector\ 4.svg);
+    background-image: url(images/Vector.svg);
 }
 
 ._speed .about-item__h3::before {
-    background-image: url(/images/wifi\ 1.svg);
+    background-image: url(images/wifi.svg);
 }
 
 ._communities .about-item__h3::before {
-    background-image: url(/images/User\ 24px\ \(2\).svg);
+    background-image: url(images/User24px2.svg);
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
 ._mentors .about-item__h3::before {
-    background-image: url(/images/User\ 24px\ \(3\).svg);
+    background-image: url(images/User24px3.svg);
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
@@ -517,7 +517,7 @@ header {
     height: 48px;
     background-color: #FF5722;
     content: '';
-    background-image: url(/images/chevron\ down\ \(2\).svg);
+    background-image: url(images/chevrondown2.svg);
     background-repeat: no-repeat;
     background-position: center center;
     position: absolute;
@@ -530,7 +530,7 @@ header {
 
 .help-item:hover .help_link {
     background-color: white;
-    background-image: url(/images/chevron\ down\ \(3\).svg);
+    background-image: url(images/chevrondown3.svg);
 }
 
 .link-arrow {
@@ -546,7 +546,7 @@ header {
     content: '';
     height: 32px;
     width: 32px;
-    background-image: url(/images/chevron\ down\ \(4\).svg);
+    background-image: url(images/chevrondown4.svg);
     margin-left: 10px;
     vertical-align: middle;
     background-size: 32px 32px;
